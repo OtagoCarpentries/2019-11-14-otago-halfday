@@ -34,3 +34,8 @@ This workshop will be based on [https://tinyurl.com/osg-r-pkgs](https://tinyurl.
 This session aims to introduce the use of Docker containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs, for example.
 
 See [https://dme26.github.io/docker-introduction/](https://dme26.github.io/docker-introduction/) for more information
+
+
+## Registration
+
+<iframe src="https://www.eventbrite.com/tickets-external?eid=77752326301&ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe> 
