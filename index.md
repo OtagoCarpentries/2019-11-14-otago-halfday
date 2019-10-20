@@ -38,4 +38,4 @@ See [https://dme26.github.io/docker-introduction/](https://dme26.github.io/docke
 
 ## Registration
 
-<iframe src="https://www.eventbrite.com/tickets-external?eid=77752326301&ref=etckt" frameborder="0" width="100%" height="280px" scrolling="auto"> </iframe> 
+<iframe src="https://www.eventbrite.com/tickets-external?eid=77752326301&ref=etckt" frameborder="0" width="100%" height="100%" scrolling="auto"> </iframe> 
