@@ -35,7 +35,8 @@ This session aims to introduce the use of Docker containers with the goal of usi
 
 See [https://dme26.github.io/docker-introduction/](https://dme26.github.io/docker-introduction/) for more information
 
+<hr>
 
 ## Registration
 
-<iframe src="https://www.eventbrite.com/tickets-external?eid=77752326301&ref=etckt" frameborder="0" width="100%" height="100%" scrolling="auto"> </iframe> 
+<iframe src="https://www.eventbrite.com/tickets-external?eid=77752326301&ref=etckt" frameborder="0" width="100%" height="660px" scrolling="auto"> </iframe> 
