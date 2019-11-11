@@ -14,6 +14,9 @@ We will cover:
 
 This workshop will be based on [http://swcarpentry.github.io/sql-novice-survey/](http://swcarpentry.github.io/sql-novice-survey/)
 
+Required software:
+- Download and install the appropriate version for your operating system of DB Browser from https://sqlitebrowser.org
+
 
 ## Introduction to making R packages
 
@@ -29,11 +32,22 @@ We will cover:
 
 This workshop will be based on [https://tinyurl.com/osg-r-pkgs](https://tinyurl.com/osg-r-pkgs)
 
+Required software:
+
+Please download and install the latest versions (if possible) of R and RStudio
+- R: https://cran.stat.auckland.ac.nz
+  * Windows users please also install Rtools 
+- RStudio: https://rstudio.com/products/rstudio/download/#download
+
 ## Introduction to Docker
 
 This session aims to introduce the use of Docker containers with the goal of using them to effect reproducible computational environments. Such environments are useful for ensuring reproducible research outputs, for example.
 
 See [https://dme26.github.io/docker-introduction/](https://dme26.github.io/docker-introduction/) for more information
+
+Required software:
+- Docker (see https://dme26.github.io/docker-introduction/setup.html for installation details)
+
 
 <hr>
 
