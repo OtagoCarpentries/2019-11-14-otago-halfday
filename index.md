@@ -35,9 +35,9 @@ This workshop will be based on [https://tinyurl.com/osg-r-pkgs](https://tinyurl.
 Required software:
 
 Please download and install the latest versions (if possible) of R and RStudio
-- R: https://cran.stat.auckland.ac.nz
+- R: [https://cran.stat.auckland.ac.nz](https://cran.stat.auckland.ac.nz)
   * Windows users please also install Rtools 
-- RStudio: https://rstudio.com/products/rstudio/download/#download
+- RStudio: [https://rstudio.com/products/rstudio/download](https://rstudio.com/products/rstudio/download/#download)
 
 ## Introduction to Docker
 
@@ -46,7 +46,7 @@ This session aims to introduce the use of Docker containers with the goal of usi
 See [https://dme26.github.io/docker-introduction/](https://dme26.github.io/docker-introduction/) for more information
 
 Required software:
-- Docker (see https://dme26.github.io/docker-introduction/setup.html for installation details)
+- Docker (see [https://dme26.github.io/docker-introduction/setup.html](https://dme26.github.io/docker-introduction/setup.html) for installation details)
 
 
 <hr>
