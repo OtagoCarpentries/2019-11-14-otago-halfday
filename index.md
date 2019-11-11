@@ -15,7 +15,7 @@ We will cover:
 This workshop will be based on [http://swcarpentry.github.io/sql-novice-survey/](http://swcarpentry.github.io/sql-novice-survey/)
 
 Required software:
-- Download and install the appropriate version for your operating system of DB Browser from https://sqlitebrowser.org
+- Download and install the appropriate version for your operating system of DB Browser from [https://sqlitebrowser.org](https://sqlitebrowser.org)
 
 
 ## Introduction to making R packages
